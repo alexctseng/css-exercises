@@ -1,6 +1,9 @@
 /* CSS page */
-.odd     {
-    background-color: rgb(255, 111, 111);
-    font-family: Verdana, "DejaVu Sans", sans-serif
-}
 
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
